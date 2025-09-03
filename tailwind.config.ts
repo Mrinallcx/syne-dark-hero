@@ -19,7 +19,7 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				'syne': ['Syne', 'sans-serif'],
+				'inter': ['Inter', 'sans-serif'],
 			},
 			backgroundImage: {
 				'hero-gradient': 'var(--hero-gradient)',

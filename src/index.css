@@ -60,7 +60,7 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground font-syne;
+    @apply bg-background text-foreground font-inter;
     overflow-x: hidden;
   }
 
